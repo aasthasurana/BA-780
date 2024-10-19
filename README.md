@@ -1,2 +1,2 @@
-# BA-780
-Analyzing Key Factors for Customer Satisfaction in the airlines industry
+Contributors:
+Aastha Surana, Atishay Jain, Jeonghee Son, Nimisha Agarwal, Sidhant Sidhant, Xingzhu Chen
